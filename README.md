@@ -3,6 +3,8 @@
 This Docker container is forked from https://github.com/paimpozhil/nginx-ssl-reverse-proxy
 and modified to provide the best security to support the backend of the Validity Chrome extension.
 
+** This is only intented to provide enough support for the latest version of Chrome & Opera. **
+
 ## How to run :
 
 ```
